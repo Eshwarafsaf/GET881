@@ -17,4 +17,7 @@ public class Calc {
 	public void si(int p,int r,int t) {
 		System.out.println("SI="+(p * r * t/100));
 	}
+	public void sqr(int p) {
+		System.out.println("Square="+(p * p));
+	}
 }
